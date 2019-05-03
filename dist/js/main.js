@@ -1,8 +1,10 @@
-// Goal: Us JS to reduce all of the manual work in association to rendering out css box shadow animations.
-// Currently, I can get an array of rgba values from an Image.
-// Next, I need to make sure I can take those values, and correctly build out an animation.
-// After that, I need to find a way to cover the rgba values to asii-like characters, with color translations already built in so I just c&p
-
+/*!
+ * project-name v0.0.1
+ * A description for your project.
+ * (c) 2019 YOUR NAME
+ * MIT License
+ * http://link-to-your-git-repo.com
+ */
 
 //Canvas
 var c = document.getElementById("js-canvas");
